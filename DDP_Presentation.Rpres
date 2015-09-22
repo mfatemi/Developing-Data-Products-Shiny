@@ -1,0 +1,30 @@
+Coursera Developing Data Products course project
+========================================================
+author: 
+date: 
+
+Project Overview
+========================================================
+
+Coursera Developing Data Products course project
+
+random generation for the normal distribution and ploting a histogram
+
+Sample for rnorm
+========================================================
+
+```{r echo=TRUE}
+summary(rnorm(100))
+```
+
+Histogram rnorm(100)
+========================================================
+
+```{r, echo=TRUE}
+hist(rnorm(100))
+```
+
+Thank you
+========================================================
+It is a very simple presnetation but i have learned a lot
+Thank you
